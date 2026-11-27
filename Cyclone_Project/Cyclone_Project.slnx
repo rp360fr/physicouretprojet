@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ballistic_Demo/Ballistic_Demo.vcxproj" Id="e9b045b4-3d0b-4033-9ccb-41665def76e1" />
+  <Project Path="Bridge_Demo/Bridge_Demo.vcxproj" Id="fc6af771-b072-477a-a0a8-d684124b6474" />
+  <Project Path="Cyclone_Library/Cyclone_Library.vcxproj" Id="915c487d-b0de-4bf6-9667-3b03632e8996" />
+  <Project Path="Fireworks_Demo/Fireworks_Demo.vcxproj" Id="d186fc6b-936d-49b7-a47d-05a0c29f7339" />
+  <Project Path="Sample-Test1/Sample-Test1.vcxproj" Id="3fb4edfb-0af4-49c0-9bfc-6240556016ec" />
+</Solution>
